@@ -1,0 +1,15 @@
+{
+  "name": "cli-weather",
+  "version": "1.0.0",
+  "description": "CLI for weather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "weather"
+  ],
+  "author": "",
+  "license": "ISC"
+}
